@@ -1,4 +1,4 @@
-# Segmentic-Segmentation-using-UNet
+# Semantic-Segmentation-using-UNet
 
 ## Project Objectives
 
